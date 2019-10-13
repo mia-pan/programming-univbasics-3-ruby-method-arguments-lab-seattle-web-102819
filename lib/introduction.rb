@@ -5,7 +5,7 @@
 
 #introduction_with_language
 intruduction=Josh
-Hi,my 
+Hi,my my name is Josh.\n"
 
 
 
